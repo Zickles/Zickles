@@ -5,3 +5,4 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=025bda&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zickles" alt="Overall Forks"></a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zickles&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&locale=en)
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zickles&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=00000000&locale=en)
